@@ -1,0 +1,2 @@
+Hello from iMac! This is first file from here.
+
